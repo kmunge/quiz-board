@@ -10,7 +10,7 @@ $(document).ready(function(){
 
 
     //=========user Interface=======//
-    $("Finish").show();
+    $("finish").show();
     event.preventDefault();
 });
 });
