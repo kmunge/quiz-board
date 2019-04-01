@@ -8,9 +8,8 @@
     reviewed and scoring after every submission. }
 
 #Setup/Installation Requirements -ubuntu -vs code -google chrome -github #Link to live side on github http: https://kmunge.github.io/quiz-board/
-BDD
+| Behaviour                    | input                  |  output                                         |
 |------------------------------|------------------------|-------------------------------------------------|
-|Behaviour                     |input                   |output                                           |
 |inputs answers                |selects from drop down  |check if correctly answered sums up or adds zero |
 |clicks submits button         |submit(on check();)     |calculates resulted value and gives score        |
 #Technologies Used -computer -wireless -router
