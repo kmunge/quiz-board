@@ -8,7 +8,7 @@ $("#blankForm").submit(function(event){
     var quiz4 = $("#quiz4").val();
 
     var resultScore = parseInt(quiz1)+parseInt(quiz2)+parseInt(quiz3)+parseInt(quiz4);
-    $("#finish").text("You SCored: " + resultScore + " out of 100");
+    $("#finish").text("You Scored: " + resultScore + " out of 100");
 
 
 //==== User Interface ====//
@@ -17,4 +17,3 @@ $("#blankForm").submit(function(event){
 });
 
 });
-
