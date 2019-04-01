@@ -34,6 +34,21 @@ h1 {
     background-color:skyblue;
     font-family: sans-serif;
     }
-    #form1  {
-
-    }
+  .button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: green;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
+    @media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%;
