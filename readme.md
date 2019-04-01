@@ -13,4 +13,4 @@
 
 #Support and contact details Munge tel:0707280118
 
-#License License {this project is licenced under MIT. hyacinthen04@gmail.com.} @Copyright 2018 { kmunge @wecode}
+#License License {this project is licenced under MIT. orokomunge@gmail.com.} @Copyright 2018 { kmunge @wecode}
