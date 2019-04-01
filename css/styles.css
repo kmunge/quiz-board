@@ -10,14 +10,6 @@ h1 {
     padding: 10px;
     font-variant: small-caps;
   }
-  .clickable {
-    color: #3a5b79;
-    font-style: italic;
-    cursor: pointer;
-  }
-  .clickable:hover {
-    text-decoration: underline;
-  }
 
   .finish {
     display: none;
@@ -34,21 +26,15 @@ h1 {
     background-color:skyblue;
     font-family: sans-serif;
     }
-  .button {
-    position: relative;
-    background-color: #4CAF50;
+    .btn {
     border: none;
-    font-size: 28px;
-    color: green;
-    padding: 20px;
-    width: 200px;
-    text-align: center;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    text-decoration: none;
-    overflow: hidden;
+    background-color: purple;
+    padding: 14px 28px;
+    font-size: 16px;
     cursor: pointer;
+    display: inline-block;
   }
+  .btn:hover {background: #eee;}
     @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%;
