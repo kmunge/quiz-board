@@ -1,13 +1,39 @@
 h1 {
     text-align: center;
-    font-size: 69px;
+    font-size: 40px;
     font-style: italic;
   }
+  .container {
+    text-align: inherit;
+    text-indent: 2px;
+    font-size: 20px;
+    padding: 10px;
+    font-variant: small-caps;
+  }
+  .clickable {
+    color: #3a5b79;
+    font-style: italic;
+    cursor: pointer;
+  }
+  .clickable:hover {
+    text-decoration: underline;
+  }
+
+  .finish {
+    display: none;
+  }
+  .row {
+    background-color: #34495e;
+    color: black;
+  }
+  #cheer {
+    color: #3a5b79;
+  }
+
   body{
-    background-image: url(image/background.jpg);
+    background-color:skyblue;
     font-family: sans-serif;
-    font-style: normal;
-  }
-  .jumbotron {
-  text-decoration: inherit;
-  }
+    }
+    #form1  {
+
+    }
