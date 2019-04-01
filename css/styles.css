@@ -4,10 +4,10 @@ h1 {
     font-style: italic;
   }
   body{
-    background-image: url(background1.JPG);
+    background-image: url(image/background.jpg);
     font-family: sans-serif;
     font-style: normal;
   }
   .jumbotron {
-    background-color: 7a8fc1; 
+  text-decoration: inherit;
   }
