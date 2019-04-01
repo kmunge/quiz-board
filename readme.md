@@ -7,7 +7,7 @@
     real javascript relevance in the real world.The test is automatically
     reviewed and scoring after every submission. }
 
-#Setup/Installation Requirements -ubuntu -vs code -google chrome -github #Link to live side on github http:""
+#Setup/Installation Requirements -ubuntu -vs code -google chrome -github #Link to live side on github http: https://kmunge.github.io/quiz-board/
 
 #Technologies Used -computer -wireless -router
 
