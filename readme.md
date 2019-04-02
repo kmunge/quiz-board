@@ -1,16 +1,32 @@
+## Name of The Project ##
+Quiz-Board
+## AUTHOR ##
+The author is Munge Kevin.
 
-#project name QUIZ BOARD
+## DESCRIPTION ##
+The project lets the user choose answers from a group of multiple choice questions and returns the appropriate grade.
+## BDD ##
+|  Input               |Output|
+|---     |---|
+| two correct answers  | 50  |
+| three correct answers| 75  |
+| four correct answers | 100 |
+## KNOWN BUGS ##
+There are no know bugs and if any is found please don't hesitate to make contact at orokomunge@gmail.com
 
-#author {Munge Kevin }
+## TECHNOLOGIES USED ##
+html
+CSS
+JAVASCRIPT
+ATOM
+GIT
+GITHUB
+## CONTACT INFORMATION ##
+You can reach out to me through:
 
-##Description {Designed to test knowledge about javascript ,using challenges based on
-    real javascript relevance in the real world.The test is automatically
-    reviewed and scoring after every submission. }
+email-orokomunge@gmail.com
+Telephone-0707280118
+Twitter-@K_munge
 
-#Setup/Installation Requirements -ubuntu -vs code -google chrome -github #Link to live side on github http: https://kmunge.github.io/quiz-board/
-
-#Technologies Used -computer -wireless -router
-
-#Support and contact details Munge tel:0707280118
-
-#License License {this project is licenced under MIT. orokomunge@gmail.com.} @Copyright 2018 { kmunge @wecode}
+## License License ##
+This project is licenced under MIT. orokomunge@gmail.com. @Copyright 2018 kmunge @wecode
